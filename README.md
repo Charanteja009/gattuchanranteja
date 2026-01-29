@@ -1,24 +1,32 @@
-<h1 align="center">Hi 👋, I'm Charan</h1>
+<h1 align="center">Hi 👋, I'm Charanteja</h1>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Machine+Learning+Practitioner&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Data+Analyst;Machine+Learning+Engineer;Applied+AI+Enthusiast&center=true&width=520&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </h3>
 
 <p align="center">
   📍 Andhra Pradesh, India <br>
-  🚀 Passionate about building <b>ML models</b> and <b>scalable web applications</b>
+  📊 Turning data into insights | 🤖 Building ML solutions
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💼 About Me
 
-I am a **Data Science and Full Stack enthusiast** with a strong interest in solving real-world problems using data-driven approaches and modern web technologies.  
-Currently, I focus on:
-- Developing **machine learning models**
-- Performing **EDA and data-driven analysis**
-- Building **scalable, production-ready web applications**
+I am a **Data Scientist and Machine Learning Engineer** with a strong foundation in **data analysis, statistical thinking, and applied machine learning**.  
+I enjoy working with data end-to-end — from **exploration and modeling** to **deployment and real-world impact**.
 
-I enjoy learning new technologies and applying them to impactful projects.
+While my core focus is on **Data Science & ML**, I also have **working knowledge of frontend and backend technologies**, enabling me to deploy models as usable applications.
+
+---
+
+## 🧠 Core Expertise
+
+- 📊 **Data Analysis & EDA** — extracting insights from structured data  
+- 🤖 **Machine Learning** — model building, evaluation, and optimization  
+- 🧪 **Feature Engineering & Preprocessing**  
+- ⚙️ **ML Pipelines & Model Deployment**  
+- 📈 **Business-driven problem solving with data**
 
 ---
 
@@ -35,17 +43,18 @@ I enjoy learning new technologies and applying them to impactful projects.
 
 ### 📊 Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=orange)
 ![EDA](https://img.shields.io/badge/EDA-0d1117?style=for-the-badge&logo=databricks&logoColor=red)
-![ML Ops](https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=mlflow&logoColor=blue)
+![MLOps](https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=mlflow&logoColor=blue)
 
 ---
 
-### 🌐 Web Development
+### 🌐 Deployment & Development (Working Knowledge)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=blue)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=green)
 
 ---
@@ -55,11 +64,11 @@ I enjoy learning new technologies and applying them to impactful projects.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Charanteja009&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charanteja009&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -67,8 +76,7 @@ I enjoy learning new technologies and applying them to impactful projects.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <!-- Replace the placeholder below with your generated snake animation -->
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://github.com/Charanteja009/Charanteja009/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -76,7 +84,7 @@ I enjoy learning new technologies and applying them to impactful projects.
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:your.email@example.com">
@@ -87,5 +95,5 @@ I enjoy learning new technologies and applying them to impactful projects.
 ---
 
 <p align="center">
-  <i>Always learning. Always building. Always improving.</i>
+  <i>Data-driven mindset • Practical machine learning • Continuous learning</i>
 </p>
