@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Charan</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Machine+Learning+Practitioner&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </h3>
