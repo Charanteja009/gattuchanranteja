@@ -6,10 +6,10 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/sidde-gnaneswar-reddy-6b25b8285">
+<a href="www.linkedin.com/in/chanranteja009">
   <img src="https://img.shields.io/badge/LinkedIn-Charan%20Teja-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:gnaneswar.sidde@gmail.com">
+<a href="mailto:charangattu8@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
