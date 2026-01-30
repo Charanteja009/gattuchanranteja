@@ -17,12 +17,14 @@
 
 ---
 
-## 👋 About Me
+<h2>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+  About Me
+</h2>
 
-I am a **Data Scientist and Machine Learning Engineer** with a strong interest in building data-driven products that solve real business problems.
+I am a results-driven <b>Data Scientist and Machine Learning Engineer</b> focused on designing and delivering data-powered solutions that directly support business and product decisions.
 
-I enjoy working across the complete lifecycle of a data project — from data exploration and feature engineering to model development, evaluation and deployment.  
-My focus is on building **practical, scalable and interpretable ML solutions**.
+My work spans the full machine learning lifecycle — from data understanding and feature engineering to model development, validation and production deployment. I place strong emphasis on <b>model reliability, interpretability and real-world impact</b>, ensuring that solutions move beyond experimentation and into practical use.
 
 **Core interests**
 
@@ -67,11 +69,14 @@ My focus is on building **practical, scalable and interpretable ML solutions**.
   </tr>
 
   <tr>
-    <td><b>Visualization & BI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-    </td>
-  </tr>
+  <td><b>Visualization & BI</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </td>
+</tr>
+
 
   <tr>
     <td><b>Backend & Tools</b></td>
